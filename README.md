@@ -94,6 +94,6 @@ sugestões de melhoria e organização
 👉 Toda a construção, fórmulas, análises e desenvolvimento do dashboard foram realizados manualmente, garantindo domínio prático dos conceitos apresentados.
 
 
-👨‍💻 Autor
-Gabriel Lima dos Santos
-Estudante de Dados | Foco em Análise de Dados
+<h2>👨‍💻 Autor:<br>
+Gabriel Lima dos Santos<br>
+Estudante de Dados | Foco em Análise de Dados</h2>
