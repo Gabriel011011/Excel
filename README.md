@@ -1,19 +1,20 @@
-📊 Sales Dashboard em Excel
-📌 Sobre o Projeto
+<h1>📊 Sales Dashboard em Excel</h1>
+<br>
+<h2>📌Sobre o Projeto</h2>
 Este projeto consiste na criação de um dashboard interativo de análise de vendas utilizando apenas Excel, com foco em explorar dados comerciais e gerar insights relevantes para tomada de decisão.
 O dashboard permite visualizar o desempenho de vendas ao longo do tempo, identificar tendências, comparar categorias, regiões e avaliar o desempenho de vendedores.
-
-🎯 Objetivo
+<br>
+<h2>🎯 Objetivo</h2>
 Demonstrar habilidades intermediárias em Excel, incluindo:
-
+<br>
 Manipulação e tratamento de dados
 Uso de funções e fórmulas
 Criação de tabelas dinâmicas
 Desenvolvimento de dashboards interativos
 Análise e interpretação de dados
+<br>
 
-
-🛠️ Ferramentas Utilizadas
+<h2>🛠️ Ferramentas Utilizadas</h2>
 
 Microsoft Excel
 
@@ -26,7 +27,7 @@ Gráficos (linha, barras)
 
 
 
-📁 Estrutura do Projeto
+<h2>📁 Estrutura do Projeto</h2>
 
 Dados → Base de dados tratada com informações de vendas
 KPIs → Indicadores principais do negócio
@@ -37,7 +38,7 @@ Dashboard → Visualização interativa (principal)
 Insights → Interpretação dos dados
 
 
-📊 Indicadores (KPIs)
+<h2>📊 Indicadores (KPIs)</h2>
 O dashboard apresenta os principais indicadores:
 
 💰 Receita Total
@@ -46,7 +47,7 @@ O dashboard apresenta os principais indicadores:
 🧾 Ticket Médio
 
 
-📈 Análises Realizadas
+<h2>📈 Análises Realizadas</h2>
 
 Evolução da receita ao longo dos meses
 Distribuição de vendas por região
@@ -55,7 +56,7 @@ Ranking de vendedores
 Análise de margem de lucro
 
 
-🧠 Principais Insights
+<h2>🧠 Principais Insights</h2>
 
 A receita apresenta comportamento sazonal ao longo do ano
 Outubro é o mês com maior volume de vendas
@@ -66,7 +67,7 @@ A vendedora Ana lidera o desempenho geral
 O ticket médio elevado indica predominância de produtos de maior valor
 
 
-🎛️ Interatividade
+<h2>🎛️ Interatividade</h2>
 O dashboard permite filtragem dinâmica por:
 
 Região
@@ -75,7 +76,7 @@ Vendedor
 Período (mês)
 
 
-🚀 Diferenciais do Projeto
+<h2>🚀 Diferenciais do Projeto</h2>
 
 Uso exclusivo do Excel para análise completa
 Dashboard interativo com segmentação de dados
@@ -83,7 +84,7 @@ Estrutura organizada e profissional
 Inclusão de insights analíticos
 Foco em interpretação de dados (não apenas visualização)
 
-🤖 Uso de Inteligência Artificial
+<h2>🤖 Uso de Inteligência Artificial</h2>
 Este projeto contou com o apoio de Inteligência Artificial apenas como ferramenta de suporte ao aprendizado, sendo utilizada para:
 
 orientação no planejamento do projeto
