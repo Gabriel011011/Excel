@@ -16,82 +16,82 @@ Análise e interpretação de dados
 
 <h2>🛠️ Ferramentas Utilizadas</h2>
 
-Microsoft Excel
+Microsoft Excel<br>
 
-Tabelas 
-Tabelas Dinâmicas
-Segmentação de Dados (Slicers)
-Fórmulas (SOMA, MÉDIA, etc.)
+Tabelas<br> 
+Tabelas Dinâmicas<br>
+Segmentação de Dados (Slicers)<br>
+Fórmulas (SOMA, MÉDIA, etc.)<br>
 Gráficos (linha, barras)
 
 
-
+<br>
 
 <h2>📁 Estrutura do Projeto</h2>
 
-Dados → Base de dados tratada com informações de vendas
-KPIs → Indicadores principais do negócio
-Top_Vendedores → Ranking de vendedores por receita
-Receita_Regiao → Análise de vendas por região
-Receita_Categoria → Análise por categoria
-Dashboard → Visualização interativa (principal)
+Dados → Base de dados tratada com informações de vendas<br>
+KPIs → Indicadores principais do negócio<br>
+Top_Vendedores → Ranking de vendedores por receita<br>
+Receita_Regiao → Análise de vendas por região<br>
+Receita_Categoria → Análise por categoria<br>
+Dashboard → Visualização interativa (principal)<br>
 Insights → Interpretação dos dados
 
-
+<br>
 <h2>📊 Indicadores (KPIs)</h2>
-O dashboard apresenta os principais indicadores:
+O dashboard apresenta os principais indicadores:<br>
 
-💰 Receita Total
-📈 Lucro Total
-📊 Margem Média
-🧾 Ticket Médio
+💰 Receita Total<br>
+📈 Lucro Total<br>
+📊 Margem Média<br>
+🧾 Ticket Médio<br>
 
 
 <h2>📈 Análises Realizadas</h2>
 
-Evolução da receita ao longo dos meses
-Distribuição de vendas por região
-Desempenho por categoria de produtos
-Ranking de vendedores
-Análise de margem de lucro
+Evolução da receita ao longo dos meses<br>
+Distribuição de vendas por região<br>
+Desempenho por categoria de produtos<br>
+Ranking de vendedores<br>
+Análise de margem de lucro<br>
 
 
 <h2>🧠 Principais Insights</h2>
 
-A receita apresenta comportamento sazonal ao longo do ano
-Outubro é o mês com maior volume de vendas
-Novembro apresenta queda significativa na receita
-A categoria Eletrônicos domina o faturamento
-A região Sul apresenta maior concentração de vendas
-A vendedora Ana lidera o desempenho geral
+A receita apresenta comportamento sazonal ao longo do ano<br>
+Outubro é o mês com maior volume de vendas<br>
+Novembro apresenta queda significativa na receita<br>
+A categoria Eletrônicos domina o faturamento<br>
+A região Sul apresenta maior concentração de vendas<br>
+A vendedora Ana lidera o desempenho geral<br>
 O ticket médio elevado indica predominância de produtos de maior valor
 
 
 <h2>🎛️ Interatividade</h2>
-O dashboard permite filtragem dinâmica por:
+O dashboard permite filtragem dinâmica por:<br>
 
-Região
-Categoria
-Vendedor
+Região<br>
+Categoria<br>
+Vendedor<br>
 Período (mês)
 
 
 <h2>🚀 Diferenciais do Projeto</h2>
 
-Uso exclusivo do Excel para análise completa
-Dashboard interativo com segmentação de dados
-Estrutura organizada e profissional
-Inclusão de insights analíticos
+Uso exclusivo do Excel para análise completa<br>
+Dashboard interativo com segmentação de dados<br>
+Estrutura organizada e profissional<br>
+Inclusão de insights analíticos<br>
 Foco em interpretação de dados (não apenas visualização)
-
+<br>
 <h2>🤖 Uso de Inteligência Artificial</h2>
-Este projeto contou com o apoio de Inteligência Artificial apenas como ferramenta de suporte ao aprendizado, sendo utilizada para:
+Este projeto contou com o apoio de Inteligência Artificial apenas como ferramenta de suporte ao aprendizado, sendo utilizada para:<br>
 
-orientação no planejamento do projeto
-revisão de boas práticas
-sugestões de melhoria e organização
+orientação no planejamento do projeto<br>
+revisão de boas práticas<br>
+sugestões de melhoria e organização<br>
 
-👉 Toda a construção, fórmulas, análises e desenvolvimento do dashboard foram realizados manualmente, garantindo domínio prático dos conceitos apresentados.
+👉 Toda a construção, fórmulas, análises e desenvolvimento do dashboard foram realizados manualmente, garantindo domínio prático dos conceitos apresentados.<br>
 
 
 <h2>👨‍💻 Autor:<br>
